@@ -1,0 +1,3 @@
+degen claude. 
+just need a way for llms to have access to money and place bets...
+
